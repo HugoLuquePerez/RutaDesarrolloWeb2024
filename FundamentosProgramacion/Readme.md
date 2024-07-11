@@ -45,7 +45,7 @@
 ---
 
 ##### To do list:
-> - Completar curso de *freeCodeCamp*❌
-> - Calculadora❌
-> - Lista de tareas ❌
+> - Completar curso de *freeCodeCamp*✅
+> - Calculadora✅
+> - Lista de tareas ✅
 
